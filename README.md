@@ -1,10 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/filmlane)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/filmlane?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/filmlane?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ketan270/Filmlane)
+  ![GitHub stars](https://img.shields.io/github/stars/ketan270/Filmlane?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ketan270/Filmlane?style=social)
 
   <br />
   <br />
@@ -38,18 +36,15 @@ To run **Filmlane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/ketan270/Filmlane.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/ketan270/Filmlane.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
